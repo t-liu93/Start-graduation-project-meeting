@@ -3,3 +3,5 @@ The slides in both TeX and pdf form of start graduation project meeting at TU/e.
 
 # Acknowledgement
 Great appreciation to @Caster https://github.com/Caster et al. who extended the fancy TU/e beamer library for LaTeX, the repository of the library is at https://github.com/Caster/Beamer-TUe. 
+
+The icon images come from Noun Project at https://thenounproject.com/. 
